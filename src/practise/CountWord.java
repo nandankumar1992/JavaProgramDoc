@@ -1,5 +1,5 @@
 package practise;
-
+//count words
 public class CountWord {
 public static void main(String[] args) {
 	String sentence="my name is nandan kumar";
